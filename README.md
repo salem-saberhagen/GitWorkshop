@@ -1,0 +1,1 @@
+Este repositorio contiene algunos comandos que vimos en la clase pasada.
